@@ -1,0 +1,23 @@
+The analyses will be carried out in the directory /u02/ligezhang/drug_design_neoe/scripts//
+
+ls: cannot access '*aln': No such file or directory
+
+Running RAxML...
+Use raxml with AVX support (8 cpus)
+Warning, you specified a working directory via "-w"
+Keep in mind that RAxML only accepts absolute path names, not relative ones!
+The file ../alignment/Dengue.phy you want to open for reading does not exist, exiting ...
+
+RAxML finished!
+
+The analyses will be carried out in the directory /u02/ligezhang/drug_design_neoe/scripts//
+
+ls: cannot access '*aln': No such file or directory
+
+Running RAxML...
+Use raxml with AVX support (8 cpus)
+Error, you have specified a random number seed via -x or -b for some sort of bootstrapping,
+but you have not specified a number of replicates via -N or -#, exiting ....
+
+RAxML finished!
+
